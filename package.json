@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IRONGit/pre-commit.git"
+    "url": "git+https://github.com/IRONGit/pre-commit-pj.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/IRONGit/pre-commit/issues"
+    "url": "https://github.com/IRONGit/pre-commit-pj/issues"
   },
   "pre-commit": [
     "lint"
@@ -23,7 +23,7 @@
     "pre-commit": "lint-staged"
   },
   "precommit.silent": true,
-  "homepage": "https://github.com/IRONGit/pre-commit#readme",
+  "homepage": "https://github.com/IRONGit/pre-commit-pj#readme",
   "devDependencies": {
     "eslint": "^2.12.0",
     "eslint-config-standard": "^5.1.0",
